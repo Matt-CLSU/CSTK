@@ -1,1 +1,1 @@
-# CSTK
+# Cybersecurity Toolkit (CSTK)
