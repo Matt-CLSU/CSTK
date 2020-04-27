@@ -4,6 +4,3 @@
 [submodule "lynis"]
 	path = lynis
 	url = https://github.com/CISOfy/lynis.git
-[submodule "OPNsense/core"]
-	path = OPNsense/core
-	url = https://github.com/opnsense/core.git
