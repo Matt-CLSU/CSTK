@@ -216,7 +216,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 3:  A results page will then display that gives you an overview of the campaign. As emails are successfully delivered, the statistics on this page will change accordingly. If you navigate away from this page, it can easily be access again through the Campaigns link on the left, and then by clicking the bar graph beside the desired campaign. If you are satisfied with the results, clicking the complete button on this page will stop the campaign.**
 
-![GoPhishCampaignResults](https://lh3.googleusercontent.com/D9s1Na7XtTh5ljKE-DcmMme00srNxk5G6ALTvxjsxk4DwojXCf2C36Jcm0AjjrGqIFmNh-RsSKnecu97S06SQKpv42MCxstfGL9cOr4Sl6JFlye9xu0=w1280)
+![GoPhishCampaignResults](https://f002.backblazeb2.com/file/SeniorProject/GoPhishCampaignResults.png)
 
 # Using OPNsense
 
