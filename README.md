@@ -260,7 +260,7 @@ Follow the recommendations from the link to remediate the issue.
 
 > Firewall rules help to prevent clients from access resources they should not be using. Additionally, they help to prevent DDoS attacks, botnets, and bad actors from affecting your network. This section will focus on how to block DNS queries unless they are to a trusted server.
 
-**Step 1: To view, add, or edit a firewall rule, use the left menu and navigate to *Firewall* > *Rules* > *LAN*.**
+**Step 1: To view, add, or edit a firewall rule, use the left menu and navigate to *Firewall* > *Rules* > *LAN*.** 
 
 **Step 2: To add rule, select the *Add* button in the top right of the window. You can then set the default *action*, *direction*, *source*, *destination*, along with many other settings. To allow DNS queries only to trusted sources, configure your settings to match the screenshot below. Note: you will need to change the destination address of the DNS server to match your own.**
 
