@@ -8,9 +8,9 @@
 
 **Step 1: Create a new repo without a README.**
 
-![Initial GitHub config screenshot](https://lh3.googleusercontent.com/7YV5JHJHscCNhiJIvSFVuxbNcPxxPoB-CKDUp5qNyg5UuIrHLEsUWx3HjD50__6hKHaUCBydezjlJW967bn0CJ0zBCYQhrS6TIWYlPh-pgkf4DUYXYM=w1280)
+![Initial GitHub config screenshot](https://f002.backblazeb2.com/file/SeniorProject/GitHubNewRepo.png)
 
-**Step 2:  Using a Linux distro of your choice, open *Terminal*.**
+**Step 2:  Using a Ubuntu, open *Terminal*.**
 
 **Step 3: Create a directory to store submodules (clones of each tool's repo) by entering mkdir CSTK.**
 
@@ -114,10 +114,10 @@
 - gedit 192.168.10.200-lynis.log
 
 **Step 2: Take one suggestion from the results and open the URL in Firefox.**
-![Terminal output](https://lh6.googleusercontent.com/WR_EoBFoCwfuhQOLzWLyLPAWPwhyGklc0zndaSZPpjjxVMLLe2C2AqleHTb8n0CMbPCKCKPFghncOxzrg3xLMC2Pufkg_U8EqO5WFXSwwXLgXQLk0ZY=w1280)
+![Terminal output](https://f002.backblazeb2.com/file/SeniorProject/LynisScanResults.png)
 
 Follow the recommendations from the link to remediate the issue.
-![Suggestion remediation](https://lh6.googleusercontent.com/0pzC8o9zQpgetiVS4rFRUf6ltXWI0X77yRNJeph_HaC04_8hClPtAloYQHP8ywxq4QAz0hzQYbIo1R2H7ZoRPKjgpM2txOkkGOkCN__N5m5LILT6TJQ=w1280)
+![Suggestion remediation](https://f002.backblazeb2.com/file/SeniorProject/LynisResolutionPage.png)
 
 > Note: This process should be repeated for each suggestion. Not all suggestions are applicable to each company. It is the responsibility of the company's security team to decide if a suggestion is not relevant or if a particular suggestion will not be remediated (acceptable risk).
 
@@ -152,7 +152,7 @@ Follow the recommendations from the link to remediate the issue.
 **Step 2: At the login page, the default credentials are as follows:**
 - Username: admin
 - Password: gophish
-![GoPhishLoginPage](https://lh3.googleusercontent.com/KeiDiA7W3ZUfDJ0m8tGouPF-39ZlqtFkKU00aPiB4oJx_tVoXJbP9Mm-_iNfhNIP2jDQC_zRJomPobNfzsGMBST6m_5HAQjhJhOl6yrh1pP-jEBak5I=w1280)
+![GoPhishLoginPage](https://f002.backblazeb2.com/file/SeniorProject/GoPhishLogin.PNG)
 
 > Note: As a best practice, please change the default admin password. This can be done by clicking the Account Settings link on the left, and then entering your old and new passwords. 
 
@@ -168,7 +168,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 3 (optional): If you forgot or need to add a user, this list can be edited at any time by clicking the pencil icon next to the group.**
 
-![GoPhishNewGroup](https://lh4.googleusercontent.com/aZfz-GPEfY5THKwCebq59YTCbooMJ5UUiAnbXGb-MvKruOKR7YkoSkcthaPfeaA5c3qbQ8YncUpUYEW30_VNFJyZOLewzWII3Ks5OgOjG5cHlCoJnzfI=w1280)
+![GoPhishNewGroup](https://f002.backblazeb2.com/file/SeniorProject/GoPhishNewGroup.png)
 
 ## Create email templates
 
@@ -180,7 +180,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 3: When finished, click *Save Template*.**
 
-![GoPhishEmailTemplate](https://lh4.googleusercontent.com/4va-pWpFi6JoxxUnJU0rlQW94v5cABWjlPc0c4Z5cO0WGvbIEsabxLjs5rv-x7xtDVMzB8-3-soGqV51i4TexsEqt66pK9DRezN1UxmqL_b6xkUprw=w1280)
+![GoPhishEmailTemplate](https://f002.backblazeb2.com/file/SeniorProject/GoPhishEmailTemplate.png)
 
 ## Create landing pages
 
@@ -192,7 +192,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 3: After you have finished, click *Save Page*.** 
 
-![GoPhishLandingPage](https://lh6.googleusercontent.com/LnremkUBZS8pSlbSJLYvfywbdq3dQ57TqHWk74MdzNbLvw3rOnFo9YsrhmZqt0cTKRlcBZcKkA7xgYURNvryA52xhr6KN0aTC74hFpDWeE026OJzemT4=w1280)
+![GoPhishLandingPage](https://f002.backblazeb2.com/file/SeniorProject/GoPhishLandingPage.png)
 
 ## Create sending profiles
 
@@ -202,7 +202,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 2: After you have finished, click *Save Profile*.** 
 
-![enter image description here](https://lh4.googleusercontent.com/iWbZQss8XhAJ0O88nTZY7uCMHFM-9463CxvP69PYPFYKLWRRHHhf8eWmgMkMMbdfHd5rl4_mIImkleOZrDePR8L3cLJNJMKWFXs6bt-ruYBR0VOpiEo=w1280)
+![GoPhishSendingProfile](https://f002.backblazeb2.com/file/SeniorProject/GoPhishSendingProfile.png)
 
 ## Create campaigns and review results
 
@@ -212,7 +212,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 2: When you are finished, click *Launch Campaign*.**
 
-![GoPhishNewCampaign](https://lh4.googleusercontent.com/1B5yRXbbdVU1OKNxXNh9-F-ML8Nlls4Ppk-7DFs8WQhthDKzlGD8wdgARROTWFivEjftvRCLwney5GpeVkoasVe3aD4iSzYXISJaDpPnBkwN6aobDCs=w1280)
+![GoPhishNewCampaign](https://f002.backblazeb2.com/file/SeniorProject/GoPhishCampaigns.png)
 
 **Step 3:  A results page will then display that gives you an overview of the campaign. As emails are successfully delivered, the statistics on this page will change accordingly. If you navigate away from this page, it can easily be access again through the Campaigns link on the left, and then by clicking the bar graph beside the desired campaign. If you are satisfied with the results, clicking the complete button on this page will stop the campaign.**
 
@@ -242,7 +242,7 @@ Follow the recommendations from the link to remediate the issue.
 
 > Note: This configuration should be used as a guide only. Each customer's network will have its own unique setup.
 
-![OPNsenseImport](https://lh6.googleusercontent.com/vVpqcS1Dy0qnhVvEfMKobVHY3zlqe5-qJ7ZHHUTx6YOjAH036Y0CVYt3WtqAgCVErucB8BVYBE-NxkuJRbUegHFbx2b1G0zmX1zeyvA5kIpVbYLZOIU=w1280)
+![OPNsenseImport](https://f002.backblazeb2.com/file/SeniorProject/OPNsenseImport.PNG)
 
 ## VLAN configuration
 
@@ -254,7 +254,7 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 3: To add a VLAN, select the *Add* button to the right. Enter the desired parent interface, tag, priority, and description to fit your needs. After you are finished editing, click *Save*.**
 
-![OPNsenseVLANConfig](https://lh6.googleusercontent.com/sb77wtec4FqFaVT99CeDnRlKSgGNPrOG5xg4hlV2B14dWyQBgiH2B7jOuFV_Kby65aeq8z7S6kAvbuGLVDU7iFtluUopk4-Z-GHSxqbGIvHNGkqa3skF=w1280)
+![OPNsenseVLANConfig](https://f002.backblazeb2.com/file/SeniorProject/OPNsenseVLAN.PNG)
 
 ## Creating firewall rules
 
@@ -264,10 +264,10 @@ Follow the recommendations from the link to remediate the issue.
 
 **Step 2: To add rule, select the *Add* button in the top right of the window. You can then set the default *action*, *direction*, *source*, *destination*, along with many other settings. To allow DNS queries only to trusted sources, configure your settings to match the screenshot below. Note: you will need to change the destination address of the DNS server to match your own.**
 
-![OPNsenseFirewallDNSRule](https://lh5.googleusercontent.com/no_QBfW43mQhphLWlUaVZOOfCbPpIw3pd-PiMUK8LC3vBVxWUKv3TdkX4DBXpFej5onsQ38wtKWhLBTST50Inol5QRK-2LNpQU63Z_x4vy4MmJtrFHE=w1280)
+![OPNsenseFirewallDNSRule](https://f002.backblazeb2.com/file/SeniorProject/OPNsenseFirewallDNSRule.PNG)
 
 **Step 3: To edit an existing rule, click the *pencil icon* beside the existing rule. The interface will look the same as step 2. Make your desired changes, and then click *Save* when you are finished.**
 
 **Step 4: Click the Apply changes button to save your firewall rules to memory.**
 
-![OPNsenseApplyChanges](https://lh5.googleusercontent.com/0J6p7l0aFhIK9oJHS9t9WGdcm8cOoBOJaAq4KyAT0uV_zupD_qPcuwATy10QytEgbmURVmPXyuKSRSmq7NpyVAktmMtbKeDfNtmhXqA0ULgO5l2vkbMD=w1280)
+![OPNsenseApplyChanges](https://f002.backblazeb2.com/file/SeniorProject/OPNsenseApplyChanges.PNG)
