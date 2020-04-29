@@ -248,7 +248,7 @@ Follow the recommendations from the link to remediate the issue.
 
 > As a best practice, networks should be segmented for the purposes of security and breaking up broadcast domains. Many small to medium companies may not have this level of segmentation. The VLANs that were imported from the configuration should be used as a guide only. Each network will be different.
 
-**Step 1: To view, edit, or add a VLAN, use the left menu and navigate to *Interfaces* > *VLAN*. **
+**Step 1: To view, edit, or add a VLAN, use the left menu and navigate to *Interfaces* > *VLAN***
 
 **Step 2: To edit an existing VLAN, select the *pencil icon* next to the VLAN. You can then change the parent interface, tag, priority, and description to fit your needs. After you are finished editing, click *Save*.**
 
